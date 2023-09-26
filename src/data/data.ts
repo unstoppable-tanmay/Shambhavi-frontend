@@ -1,0 +1,36 @@
+
+
+const allLocations = [
+  "Shimla",
+  "Manali",
+  "Dharamshala",
+  "Dalhousie",
+  "Solan",
+  "Bilaspur",
+  "Mandi",
+  "Kullu",
+  "Kangra",
+  "Pathankot",
+  "Kasol",
+  "Keylong",
+  "Sarchu",
+  "Leh",
+  "Ghumarwin",
+  "Chamba",
+  "Palampur",
+  "Baijnath",
+  "Joginder Nagar",
+  "Narkanda",
+  "Rampur",
+  "Sarahan",
+  "Sangla",
+  "Chitkul",
+  "Aut",
+  "Banjar",
+  "Anni",
+  "Pooh",
+  "Kaza",
+  "Chandigarh",
+];
+
+module.exports = { allLocations };

@@ -1,0 +1,117 @@
+[
+    {
+      "driver_id": "DRIVER1",
+      "driver_name": "Ramesh Chauhan",
+      "driver_phone": "+91 98765 12345",
+      "address": "Village Narkanda, Shimla"
+    },
+    {
+      "driver_id": "DRIVER2",
+      "driver_name": "Suman Sharma",
+      "driver_phone": "+91 87654 23456",
+      "address": "Bir Billing Road, Dharamshala"
+    },
+    {
+      "driver_id": "DRIVER3",
+      "driver_name": "Amit Thakur",
+      "driver_phone": "+91 94567 34567",
+      "address": "VPO Manali, Kullu"
+    },
+    {
+      "driver_id": "DRIVER4",
+      "driver_name": "Neeta Verma",
+      "driver_phone": "+91 98345 45678",
+      "address": "Dalhousie Cantt, Dalhousie"
+    },
+    {
+      "driver_id": "DRIVER5",
+      "driver_name": "Rajesh Negi",
+      "driver_phone": "+91 96789 56789",
+      "address": "Chamba Road, Chamba"
+    },
+    {
+      "driver_id": "DRIVER6",
+      "driver_name": "Anita Khanna",
+      "driver_phone": "+91 95432 67890",
+      "address": "Kasol Market, Kasol"
+    },
+    {
+      "driver_id": "DRIVER7",
+      "driver_name": "Sanjeev Kumar",
+      "driver_phone": "+91 97654 78901",
+      "address": "Kaza, Spiti Valley"
+    },
+    {
+      "driver_id": "DRIVER8",
+      "driver_name": "Pooja Sood",
+      "driver_phone": "+91 99567 89012",
+      "address": "Palampur Town, Palampur"
+    },
+    {
+      "driver_id": "DRIVER9",
+      "driver_name": "Vijay Singh",
+      "driver_phone": "+91 93345 90123",
+      "address": "Bir Tibetan Colony, Bir Billing"
+    },
+    {
+      "driver_id": "DRIVER10",
+      "driver_name": "Priya Rawat",
+      "driver_phone": "+91 92222 34567",
+      "address": "Khajjiar, Dalhousie"
+    },
+    {
+      "driver_id": "DRIVER11",
+      "driver_name": "Alok Verma",
+      "driver_phone": "+91 93333 45678",
+      "address": "Rohtang Pass, Manali"
+    },
+    {
+      "driver_id": "DRIVER12",
+      "driver_name": "Rekha Negi",
+      "driver_phone": "+91 91111 56789",
+      "address": "Kinnaur, Himachal Pradesh"
+    },
+    {
+      "driver_id": "DRIVER13",
+      "driver_name": "Rajat Singh",
+      "driver_phone": "+91 97777 67890",
+      "address": "Sangla Valley, Kinnaur"
+    },
+    {
+      "driver_id": "DRIVER14",
+      "driver_name": "Anjali Thakur",
+      "driver_phone": "+91 94444 78901",
+      "address": "Chitkul, Kinnaur"
+    },
+    {
+      "driver_id": "DRIVER15",
+      "driver_name": "Suresh Verma",
+      "driver_phone": "+91 98888 89012",
+      "address": "Chail, Himachal Pradesh"
+    },
+    {
+      "driver_id": "DRIVER16",
+      "driver_name": "Deepika Sharma",
+      "driver_phone": "+91 96666 90123",
+      "address": "Barog, Solan"
+    },
+    {
+      "driver_id": "DRIVER17",
+      "driver_name": "Amit Kumar",
+      "driver_phone": "+91 95555 23456",
+      "address": "Nahan, Himachal Pradesh"
+    },
+    {
+      "driver_id": "DRIVER18",
+      "driver_name": "Ritu Singh",
+      "driver_phone": "+91 94444 34567",
+      "address": "Tatapani, Mandi"
+    },
+    {
+      "driver_id": "DRIVER19",
+      "driver_name": "Vinod Kumar",
+      "driver_phone": "+91 97777 45678",
+      "address": "Tirthan Valley, Kullu"
+    }
+  ]
+  

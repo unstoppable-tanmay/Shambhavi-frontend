@@ -1,0 +1,122 @@
+[
+    {
+        "bus_number": "BUS1",
+        "bus_name": "HRTC-1",
+        "model": "Volvo-23d",
+        "seat_capacity": 36,
+        "seat_model": "model-1",
+        "emission_certificate": "BS-4/2019",
+        "driver": [
+            "DRIVER1",
+            "DRIVER11"
+        ]
+    },
+    {
+        "bus_number": "BUS2",
+        "bus_name": "HRTC-2",
+        "model": "Scania-40s",
+        "seat_capacity": 47,
+        "seat_model": "model-2",
+        "emission_certificate": "BS-4/2020",
+        "driver": [
+            "DRIVER2",
+            "DRIVER12"
+        ]
+    },
+    {
+        "bus_number": "BUS3",
+        "bus_name": "HRTC-14",
+        "model": "Scania-47s",
+        "seat_capacity": 47,
+        "seat_model": "model-2",
+        "emission_certificate": "BS-4/2020",
+        "driver": [
+            "DRIVER3",
+            "DRIVER13"
+        ]
+    },
+    {
+        "bus_number": "BUS4",
+        "bus_name": "HRTC-4",
+        "model": "Tata-34t",
+        "seat_capacity": 36,
+        "seat_model": "model-1",
+        "emission_certificate": "BS-4/2019",
+        "driver": [
+            "DRIVER4",
+            "DRIVER14"
+        ]
+    },
+    {
+        "bus_number": "BUS5",
+        "bus_name": "HRTC-5",
+        "model": "Volvo-47v",
+        "seat_capacity": 47,
+        "seat_model": "model-2",
+        "emission_certificate": "BS-4/2020",
+        "driver": [
+            "DRIVER5",
+            "DRIVER15"
+        ]
+    },
+    {
+        "bus_number": "BUS6",
+        "bus_name": "HRTC-6",
+        "model": "Scania-55s",
+        "seat_capacity": 55,
+        "seat_model": "model-3",
+        "emission_certificate": "BS-4/2021",
+        "driver": [
+            "DRIVER6",
+            "DRIVER16"
+        ]
+    },
+    {
+        "bus_number": "BUS7",
+        "bus_name": "HRTC-13",
+        "model": "Volvo-36v",
+        "seat_capacity": 36,
+        "seat_model": "model-1",
+        "emission_certificate": "BS-4/2019",
+        "driver": [
+            "DRIVER7",
+            "DRIVER17"
+        ]
+    },
+    {
+        "bus_number": "BUS8",
+        "bus_name": "HRTC-8",
+        "model": "Tata-47t",
+        "seat_capacity": 47,
+        "seat_model": "model-2",
+        "emission_certificate": "BS-4/2020",
+        "driver": [
+            "DRIVER8",
+            "DRIVER18"
+        ]
+    },
+    {
+        "bus_number": "BUS9",
+        "bus_name": "HRTC-9",
+        "model": "Volvo-55v",
+        "seat_capacity": 55,
+        "seat_model": "model-3",
+        "emission_certificate": "BS-4/2021",
+        "driver": [
+            "DRIVER9",
+            "DRIVER19"
+        ]
+    },
+    {
+        "bus_number": "BUS10",
+        "bus_name": "HRTC-12",
+        "model": "Tata-55t",
+        "seat_capacity": 55,
+        "seat_model": "model-3",
+        "emission_certificate": "BS-4/2021",
+        "driver": [
+            "DRIVER10",
+            "DRIVER20"
+        ]
+    }
+]

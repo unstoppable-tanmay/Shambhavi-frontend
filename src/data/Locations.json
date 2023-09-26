@@ -1,0 +1,154 @@
+[
+    {
+      "name": "Shimla",
+      "description": "Shimla, the capital city of Himachal Pradesh, is known for its colonial architecture, scenic beauty, and pleasant weather. Some key attractions include the Ridge, Mall Road, Jakhu Temple, and the historic Shimla Railway.",
+      "location": {
+        "latitude": 31.1048,
+        "longitude": 77.1734
+      }
+    },
+    {
+      "name": "Manali",
+      "description": "Manali is a picturesque hill station nestled in the Himalayas. It's famous for its adventure activities, including trekking, paragliding, and river rafting. Rohtang Pass, Solang Valley, and Hadimba Temple are must-visit places.",
+      "location": {
+        "latitude": 32.2396,
+        "longitude": 77.1887
+      }
+    },
+    {
+      "name": "Dharamshala",
+      "description": "Dharamshala is the residence of the Dalai Lama and a center for Tibetan culture. The town is surrounded by lush green hills and offers attractions like McLeod Ganj, Bhagsunag Waterfall, and the Tibetan Library.",
+      "location": {
+        "latitude": 32.219,
+        "longitude": 76.3234
+      }
+    },
+    {
+      "name": "Kullu",
+      "description": "Kullu is known for its scenic beauty, especially the Kullu Valley along the Beas River. It's a gateway to adventure activities and is famous for its Dussehra festival. Great places to visit include Raghunath Temple and Naggar Castle.",
+      "location": {
+        "latitude": 31.956,
+        "longitude": 77.1095
+      }
+    },
+    {
+      "name": "Dalhousie",
+      "description": "Dalhousie is a quiet hill station with beautiful landscapes, Victorian-style architecture, and panoramic views of the Himalayas. Khajjiar, often called 'Mini Switzerland,' and Kalatop Wildlife Sanctuary are major attractions.",
+      "location": {
+        "latitude": 32.5387,
+        "longitude": 75.9829
+      }
+    },
+    {
+      "name": "Chamba",
+      "description": "Chamba is known for its ancient temples, rich heritage, and stunning natural beauty. Visit the Lakshmi Narayan Temple, Bhuri Singh Museum, and take a stroll through the old town.",
+      "location": {
+        "latitude": 32.5567,
+        "longitude": 76.1259
+      }
+    },
+    {
+      "name": "Kasol",
+      "description": "Kasol is a serene village in the Parvati Valley, popular among backpackers. It's known for its hippie culture, trekking trails, and the nearby villages of Tosh and Malana.",
+      "location": {
+        "latitude": 31.9641,
+        "longitude": 77.2692
+      }
+    },
+    {
+      "name": "Spiti Valley",
+      "description": "Spiti Valley is a high-altitude desert region with rugged landscapes and Tibetan culture. Key attractions include Ki Monastery, Tabo Monastery, and the stunning Pin Valley National Park.",
+      "location": {
+        "latitude": 32.3235,
+        "longitude": 78.0728
+      }
+    },
+    {
+      "name": "Palampur",
+      "description": "Palampur is a serene town known for its tea gardens and pleasant climate. The tea gardens, Bir Billing (famous for paragliding), and Chamunda Devi Temple are some of the attractions.",
+      "location": {
+        "latitude": 32.1186,
+        "longitude": 76.542
+      }
+    },
+    {
+      "name": "Bir Billing",
+      "description": "Bir Billing is a world-famous destination for paragliding enthusiasts. The Tibetan Colony in Bir is also known for its monasteries and peaceful environment.",
+      "location": {
+        "latitude": 32.0431,
+        "longitude": 76.7167
+      }
+    },
+    {
+      "name": "Khajjiar",
+      "description": "Known as the 'Mini Switzerland of India,' Khajjiar is a small hill station with lush green meadows and a picturesque lake surrounded by cedar forests. It's a perfect spot for nature lovers and adventure seekers.",
+      "location": {
+        "latitude": 32.5479,
+        "longitude": 76.0065
+      }
+    },
+    {
+      "name": "Rohtang Pass",
+      "description": "Rohtang Pass is a high mountain pass that connects Manali to the Lahaul and Spiti Valleys. It's known for its stunning views, snow-covered landscapes, and opportunities for snow sports.",
+      "location": {
+        "latitude": 32.3904,
+        "longitude": 77.3152
+      }
+    },
+    {
+      "name": "Kinnaur",
+      "description": "Kinnaur is a remote and scenic region known for its apple orchards, terraced fields, and Tibetan Buddhist monasteries. It offers a unique blend of culture and natural beauty.",
+      "location": {
+        "latitude": 31.5797,
+        "longitude": 78.4974
+      }
+    },
+    {
+      "name": "Sangla Valley",
+      "description": "Sangla Valley is a part of Kinnaur and is famous for its beautiful landscapes, Baspa River, and the quaint village of Chitkul, which is one of the last inhabited villages near the Indo-China border.",
+      "location": {
+        "latitude": 31.3637,
+        "longitude": 78.2627
+      }
+    },
+    {
+      "name": "Chitkul",
+      "description": "Chitkul is a serene village in the Kinnaur district, known for its rustic charm and stunning mountain views. It's a great place for hiking and experiencing the local culture.",
+      "location": {
+        "latitude": 31.3522,
+        "longitude": 78.3449
+      }
+    },
+    {
+      "name": "Bhuri Singh Museum",
+      "description": "Located in Chamba, this museum houses a rich collection of artifacts, miniature paintings, and sculptures that provide insights into the history and culture of the region.",
+      "location": {
+        "latitude": 32.5549,
+        "longitude": 76.1217
+      }
+    },
+    {
+      "name": "Solan",
+      "description": "Solan is known as the 'Mushroom City of India' due to its extensive mushroom farming. It offers a pleasant climate and is home to various temples and the famous Mohan Meakin Brewery.",
+      "location": {
+        "latitude": 30.9075,
+        "longitude": 77.0963
+      }
+    },
+    {
+      "name": "Key Monastery",
+      "description": "Key Monastery is a prominent Tibetan Buddhist monastery in Spiti Valley. It is known for its unique architecture and is an important center of religious and cultural activities.",
+      "location": {
+        "latitude": 32.3556,
+        "longitude": 78.0086
+      }
+    },
+    {
+      "name": "Nahan",
+      "description": "Nahan is a tranquil town with a pleasant climate and lush green surroundings. It is known for its historical sites, including Rani Tal, Ranzor Palace, and Suketi Fossil Park.",
+      "location": {
+        "latitude": 30.5593,
+        "longitude": 77.2795
+      }
+    }
+  ]
